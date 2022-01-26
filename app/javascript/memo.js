@@ -12,8 +12,6 @@ const buildHTML = (XHR) => {
   return html;
 }
 
-
-
 function post (){
   const submit = document.getElementById("submit");
 
